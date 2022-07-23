@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 1px solid silver;
+}
+
+main {
+  display: flex;
+  justify-content: space-around;
+  margin: 3vw;
+  padding: 1em;
+  border: 3px solid green;
+}
+div.animal {
+}
+div.animal img {
+  margin: 3px;
+  width: 312px
+}
+
+div.controls {
+
+}
+div.timer {
+}
+div.timer img {
+  width: 48px;
+} */
