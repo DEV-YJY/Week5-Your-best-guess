@@ -1,4 +1,25 @@
-# Welcome to charades with crazy animals!
+# Week 5 project: Your best guess
+
+## Welcome to charades with crazy animals!
+
+This is an application that displays the name and the photo of the anmials received by external API in random.
+
+- A user can:
+  - Click skip to next animal.
+  - Click next animal to get the point.
+  - Swap teams.
+  - Start a new game.
+
+## Project Screen Shot(s)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/86042155/180632191-71b84771-2770-4a4a-b822-02cddce04666.png" alt="drawing" width="300"  align="top"/>
+</p>
+
+
+
+## Reflection
+It was really difficult to decide what we want to build with the APIs for the project. The team came to an agreement to build a simple game of charades.
+Stand-ups were effective and the team worked collaboratively. We managed to hit the MVPs and everyone was satisfied with the outcome.
 
 ## Rules
 - Team A selects their first player to act out random animals.
@@ -22,3 +43,9 @@
 ## Game end
 - Once every player in both teams has had their turn, the final scores determine the winning team.
 - Press new game to play all over again! Maybe you want to switch up the players in the teams.
+
+
+## Authors
+- **[YJ You](https://github.com/DEV-YJY)**
+- **[Adam Shand](https://github.com/adamshand)**
+- **[Naomi Joy Smith](https://github.com/phoresced)**
